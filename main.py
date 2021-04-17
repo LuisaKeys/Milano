@@ -27,7 +27,7 @@ verde = (0, 255, 0)
 gold=(255, 193, 37)
 OR = (139, 37, 0)
 
-font = "Early GameBoy.ttf"
+font = "assets/Early GameBoy.ttf"
 
 clock = pygame.time.Clock()
 FPS = 60
